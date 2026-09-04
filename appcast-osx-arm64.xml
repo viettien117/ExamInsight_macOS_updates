@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ExamInsight Updates (macOS Apple Silicon)</title>
+    <link>https://viettien117.github.io/ExamInsight_macOS_updates/appcast-osx-arm64.xml</link>
+    <description>Auto-update feed for ExamInsight on macOS (Apple Silicon)</description>
+    <language>vi</language>
+
+  <item><title>Version 1.1.0</title><pubDate>Fri, 04 Sep 2026 10:52:33 +0700</pubDate><sparkle:version>1.1.0</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.0</h3>
+        <p>Bản ExamInsight đầu tiên cho macOS, chạy trên cả máy Apple Silicon lẫn Intel và đã được Apple công chứng nên mở được ngay, không phải bấm bỏ qua cảnh báo. Giao diện dựng lại trên nền mới để dùng chung cho hai hệ điều hành, chức năng và cách dùng giữ nguyên. Sửa biểu đồ tròn: lớp có ít em giỏi thì nét viền nuốt mất lát 'Xuất sắc'. Sửa chú thích trên mục bị khoá không bao giờ hiện. Sửa hộp thoại cập nhật hiện mã khoá thô thay vì chữ. Sửa vài nhãn trong báo cáo PDF/Excel bị mất dấu tiếng Việt. Thanh điều hướng chuyển sang dọc bên trái, số thứ tự nằm trong chấm tròn.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_macOS_updates/releases/download/v1.1.0/ExamInsight-1.1.0-osx-arm64.zip" length="51871890" type="application/octet-stream" sparkle:version="1.1.0" sparkle:os="macos" sparkle:edSignature="zLvJSfSfVb5c1wSC1fC+5ZpCFS5AkrmYUI8z9SEiY1el/1BcrVBk5Qbmf7MwaKQ1Fz5RiXz5e6JX56qp5GmADg==" /></item></channel>
+</rss>
