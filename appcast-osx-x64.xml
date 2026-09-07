@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamInsight on macOS (Intel)</description>
     <language>vi</language>
 
-  <item><title>Version 1.1.0</title><pubDate>Fri, 04 Sep 2026 10:52:34 +0700</pubDate><sparkle:version>1.1.0</sparkle:version><description><![CDATA[
+  <item><title>Version 1.1.1</title><pubDate>Mon, 07 Sep 2026 16:53:30 +0700</pubDate><sparkle:version>1.1.1</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.1</h3>
+        <p>Nút tải ExamMixer nay dẫn đúng bản dành cho máy Mac khi bạn đang dùng Mac — trước đây luôn dẫn về bản Windows. Sửa lỗi ứng dụng thỉnh thoảng báo có bản cập nhật mới trong khi đó chính là bản đang chạy. Icon vẽ lại theo đúng lưới của Apple (có lề và bo góc squircle).</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_macOS_updates/releases/download/v1.1.1/ExamInsight-1.1.1-osx-x64.zip" length="54177102" type="application/octet-stream" sparkle:version="1.1.1" sparkle:os="macos" sparkle:edSignature="6NvJnASVT5xmGMSsh5uTNwqMCKz1XVpVYIyEO4nm+hUqWpiRDpN5s4KqrUcB+LDUbNrHeex+PEdvF48pbyNBAw==" /></item><item><title>Version 1.1.0</title><pubDate>Fri, 04 Sep 2026 10:52:34 +0700</pubDate><sparkle:version>1.1.0</sparkle:version><description><![CDATA[
         <h3>Version 1.1.0</h3>
         <p>Bản ExamInsight đầu tiên cho macOS, chạy trên cả máy Apple Silicon lẫn Intel và đã được Apple công chứng nên mở được ngay, không phải bấm bỏ qua cảnh báo. Giao diện dựng lại trên nền mới để dùng chung cho hai hệ điều hành, chức năng và cách dùng giữ nguyên. Sửa biểu đồ tròn: lớp có ít em giỏi thì nét viền nuốt mất lát 'Xuất sắc'. Sửa chú thích trên mục bị khoá không bao giờ hiện. Sửa hộp thoại cập nhật hiện mã khoá thô thay vì chữ. Sửa vài nhãn trong báo cáo PDF/Excel bị mất dấu tiếng Việt. Thanh điều hướng chuyển sang dọc bên trái, số thứ tự nằm trong chấm tròn.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_macOS_updates/releases/download/v1.1.0/ExamInsight-1.1.0-osx-x64.zip" length="54087250" type="application/octet-stream" sparkle:version="1.1.0" sparkle:os="macos" sparkle:edSignature="xlbrF5OPw8XB3ZLDhmGTHN6hjIGr31DJGhfirAk/AuQZaOzEvegtQTO6QyZGVCc39FHl6EGpwRldc+9lOH9QAQ==" /></item></channel>
