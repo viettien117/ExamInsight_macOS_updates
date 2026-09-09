@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamInsight on macOS (Apple Silicon)</description>
     <language>vi</language>
 
-  <item><title>Version 1.1.1</title><pubDate>Mon, 07 Sep 2026 16:53:29 +0700</pubDate><sparkle:version>1.1.1</sparkle:version><description><![CDATA[
+  <item><title>Version 1.1.2</title><pubDate>Wed, 09 Sep 2026 10:54:27 +0700</pubDate><sparkle:version>1.1.2</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.2</h3>
+        <p>Trang Giới thiệu nay có thêm ExamSheet — chương trình vẽ ra chính tờ phiếu trả lời mà ExamScan quét. Bộ Exam* nay đủ bốn bước và giới thiệu lẫn nhau: ExamSheet vẽ phiếu, ExamMixer trộn đề, ExamScan chấm bài, ExamInsight phân tích kết quả. Liên kết tải tự đổi theo nền tảng đang chạy, không còn luôn trỏ vào bản Windows.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_macOS_updates/releases/download/v1.1.2/ExamInsight-1.1.2-osx-arm64.zip" length="51963607" type="application/octet-stream" sparkle:version="1.1.2" sparkle:os="macos" sparkle:edSignature="KR9orr/asWii0Gcr/X/UzB8HN+Scor4peTYEy3DVVy6191xNlW6P3BBX9XCl7fLYPHPdB6HHJZ85a2LmHUJTAg==" /></item><item><title>Version 1.1.1</title><pubDate>Mon, 07 Sep 2026 16:53:29 +0700</pubDate><sparkle:version>1.1.1</sparkle:version><description><![CDATA[
         <h3>Version 1.1.1</h3>
         <p>Nút tải ExamMixer nay dẫn đúng bản dành cho máy Mac khi bạn đang dùng Mac — trước đây luôn dẫn về bản Windows. Sửa lỗi ứng dụng thỉnh thoảng báo có bản cập nhật mới trong khi đó chính là bản đang chạy. Icon vẽ lại theo đúng lưới của Apple (có lề và bo góc squircle).</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_macOS_updates/releases/download/v1.1.1/ExamInsight-1.1.1-osx-arm64.zip" length="51961448" type="application/octet-stream" sparkle:version="1.1.1" sparkle:os="macos" sparkle:edSignature="odzsJsnCf6DET7S30e5ub7GkcRbYzz+dVXWvRDN/+bHnHLGlCATxwx6DUIpuCGwNQ6sO7CllqqxQhzsYSAOpBw==" /></item><item><title>Version 1.1.0</title><pubDate>Fri, 04 Sep 2026 10:52:33 +0700</pubDate><sparkle:version>1.1.0</sparkle:version><description><![CDATA[
