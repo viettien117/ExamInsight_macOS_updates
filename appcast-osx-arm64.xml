@@ -6,7 +6,13 @@
     <description>Auto-update feed for ExamInsight on macOS (Apple Silicon)</description>
     <language>vi</language>
 
-  <item><title>Version 1.1.5</title><pubDate>Thu, 15 Oct 2026 11:40:48 +0700</pubDate><sparkle:version>1.1.5</sparkle:version><description><![CDATA[
+  <item><title>Version 1.1.6</title><pubDate>Thu, 29 Oct 2026 12:26:10 +0700</pubDate><sparkle:version>1.1.6</sparkle:version><description><![CDATA[
+        <h3>Version 1.1.6</h3>
+        <p>Khung quảng cáo hiện nhanh hơn.
+
+• Ảnh quảng cáo đã lưu trên máy được dùng lại ngay, không phải chờ tải.
+• Chỉ tải ảnh mới khi nội dung trên máy chủ thật sự thay đổi — tiết kiệm dữ liệu mạng.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamInsight_macOS_updates/releases/download/v1.1.6/ExamInsight-1.1.6-osx-arm64.zip" length="51995908" type="application/octet-stream" sparkle:version="1.1.6" sparkle:os="macos" sparkle:edSignature="jP6p3wpBCfP6LTHdDAvbGAxDswDLjrXw+gD8dZCiQAWYX3kTqECGGlDfyuc5Q+TQmrZUXM8xHJk6JG6lfHyRDw==" /></item><item><title>Version 1.1.5</title><pubDate>Thu, 15 Oct 2026 11:40:48 +0700</pubDate><sparkle:version>1.1.5</sparkle:version><description><![CDATA[
         <h3>Version 1.1.5</h3>
         <p>• Đọc đúng file kết quả mới của ExamScan (cột số câu của đề, điểm thang 10, tỷ lệ % đúng ở đầu bảng).
 • File của ExamScan trên điện thoại: điểm tính theo số câu của ĐÁP ÁN, không theo số câu in trên phiếu — phiếu 60 câu dùng cho đề 45 câu nay ra điểm đúng.
